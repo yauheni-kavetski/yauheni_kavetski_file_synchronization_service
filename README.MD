@@ -90,8 +90,8 @@ python main.py
 
 ## Авторство
 
-Кавецкий Евгений (Kavetski Yauheni)
-Республика Беларусь (Belarus)
+Кавецкий Евгений (Kavetski Yauheni)  
+Республика Беларусь (Belarus)  
 Email: [sales@beltran.by](mailto:sales@beltran.by)
 
 ---
