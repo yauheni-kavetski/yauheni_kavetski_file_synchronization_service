@@ -34,8 +34,8 @@
 
 ## Инструкция по установке
 
-git clone <https://github.com/yauheni-kavetski/yauheni_kavetski_file_synchronization_service>
-cd <File_Sync>
+git clone <https://github.com/yauheni-kavetski/yauheni_kavetski_file_synchronization_service>  
+cd <File_Sync>  
 python -m venv venv
 
 Linux/macOS
