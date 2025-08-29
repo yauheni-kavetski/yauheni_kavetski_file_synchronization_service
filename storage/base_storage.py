@@ -1,7 +1,8 @@
 from abc import ABC, abstractmethod
 
-
 class BaseStorage(ABC):
+
+    @abstractmethod
     def __init__(self, token: str, remote_folder: str):
         self.token = token
         self.remote_folder = remote_folder

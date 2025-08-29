@@ -20,7 +20,7 @@ def main():
     if not check_local_folder(config.LOCAL_FOLDER) or not check_token(
             storage) or not check_remote_folder(storage):
         print("Исправьте ошибки и перезапустите программу.")
-        return
+        return False
 
     while True:
         logger.info("Началась новая итерация синхронизации")
